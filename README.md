@@ -1,4 +1,5 @@
-<div style="width:100%;display:flex;justify-content:center;align-items:center;">
-  <h3 style="color:aqua">Background Location </h3>
-
-</div>
+$ npm install
+$ npm upgrade 
+==== or ===
+$ npm upgrade --force
+$npx expo start
